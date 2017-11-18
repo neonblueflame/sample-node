@@ -1,3 +1,3 @@
-# sample-node
+# sdota
 
 http://devcon.samsungph.net/
